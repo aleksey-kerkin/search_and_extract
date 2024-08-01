@@ -1,6 +1,8 @@
-A script for searching and unzipping a specific file from an array of archives lying in a specific folder.
-To use specify folder and the fragment that contains in file name or full name of a file in:
+The script for searching and unzipping the specific file from an array of archives lying in the specific folder.
+To use specify folder and the fragment that contains in file name or full name of the file in:
 
+```
 search_and_extract('/path/to/directory', 'fragment or filename.txt')
+```
 
 The script unzips the file to the folder where the archive is located.
